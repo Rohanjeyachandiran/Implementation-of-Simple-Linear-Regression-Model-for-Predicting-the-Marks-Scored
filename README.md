@@ -18,8 +18,8 @@ To write a program to predict the marks scored by a student using the simple lin
 ```
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
-Developed by: Sushiendar M
-RegisterNumber: 212223040217
+Developed by: ROHAN J
+RegisterNumber: 212223040171
 */
 import pandas as pd
 import numpy as np
@@ -69,12 +69,13 @@ rmse=np.sqrt(mse)
 print("RMSE = ",rmse)
 ```
 ## Output:
-![EXPNO2OUTPUT1](https://github.com/user-attachments/assets/f4cd7c25-1c92-49ea-8c5b-846720403a7b)
-![2024-08-29 (5)](https://github.com/user-attachments/assets/f9c894e3-45ff-4cae-adff-817e4b9b96a7)
-![EXP2OUTPUT3](https://github.com/user-attachments/assets/d4e6ac1f-806e-4432-907f-ae08c6ebea85)
-![EXP2OUTPUT4](https://github.com/user-attachments/assets/d8ce8414-84c1-4687-a66d-fd8a8bc60dd0)
-![2024-08-29 (13)(1)(1)](https://github.com/user-attachments/assets/e3689fac-9977-47fa-a568-bac887845cf9)
-![2024-08-29 (16)(1)(1)](https://github.com/user-attachments/assets/8bf79116-9aa1-4c82-afcf-1ce21c69db21)
-![2024-08-29 (20)(1)(1)](https://github.com/user-attachments/assets/37584402-3166-4cf8-bd43-6c1521b4bd8d)
+![Screenshot 2024-09-01 212907](https://github.com/user-attachments/assets/49533f40-40ad-4cb3-9e15-6952f34b716e)
+![Screenshot 2024-09-01 212924](https://github.com/user-attachments/assets/54d801d0-2fb9-401a-a3fa-485feb56097b)
+![Screenshot 2024-09-01 212937](https://github.com/user-attachments/assets/068c9fe1-87c6-4b32-8bb8-6b347d38044a)
+![Screenshot 2024-09-01 213005](https://github.com/user-attachments/assets/337ec7bf-271a-4723-8857-de72b13a9a95)
+
+
+
+
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
